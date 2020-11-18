@@ -4,9 +4,7 @@
 
 ### 🏠 [App Download Homepage](http://j3a305.p.ssafy.io:8080/home/index.html)
 ### 🎥 [App 시연영상](https://www.youtube.com/watch?v=thH3XNfE6p4)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/thH3XNfE6p4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![image](/uploads/32ff25800eb4e553a9942b89841f1eea/image.png)
+![image](https://user-images.githubusercontent.com/39832802/98457831-2e60af80-21ce-11eb-996c-c378998fe66e.png)
 <hr>
 
 ### 📂 Contents
