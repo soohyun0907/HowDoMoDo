@@ -410,9 +410,10 @@
 	  1) movie_project 데이터베이스 생성
 
 	  2) 회원, 권한, 지역, 영화관 테이블 생성
+	  
   3. AWS
   
-	  1) Spring Server 
+	  1) Spring Server 배포
   ```
 
 <br>
